@@ -1,0 +1,17 @@
+{
+    "name": "Work History",
+    "email": null,
+    "phone": "1-888-567-8688",
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Communication",
+        "R",
+        "AWS",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 10
+}

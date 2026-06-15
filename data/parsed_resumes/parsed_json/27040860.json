@@ -1,0 +1,15 @@
+{
+    "name": "ENGINEERING TECHNOLOGIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "SEO",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

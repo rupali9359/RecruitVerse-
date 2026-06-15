@@ -1,0 +1,14 @@
+{
+    "name": "SALES ASSOCIATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "C",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

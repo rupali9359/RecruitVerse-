@@ -1,0 +1,19 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "Oracle",
+        "Java",
+        "C",
+        "SQL",
+        "CRM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 9
+}

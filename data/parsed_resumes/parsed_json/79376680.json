@@ -1,0 +1,15 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Teamwork",
+        "MS Office",
+        "C",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 6
+}

@@ -1,0 +1,16 @@
+{
+    "name": "PATIENT ADVOCATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "SEM",
+        "Communication",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 7
+}

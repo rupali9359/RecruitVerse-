@@ -1,0 +1,17 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Digital Marketing",
+        "C",
+        "Git",
+        "SEM",
+        "Communication",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

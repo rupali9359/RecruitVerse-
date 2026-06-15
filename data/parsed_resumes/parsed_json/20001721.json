@@ -1,0 +1,18 @@
+{
+    "name": "INFORMATION TECHNOLOGY STUDENT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Process Improvement",
+        "C",
+        "SQL",
+        "Excel",
+        "R",
+        "SQL Server",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

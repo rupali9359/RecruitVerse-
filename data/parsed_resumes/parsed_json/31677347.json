@@ -1,0 +1,21 @@
+{
+    "name": "SOFTWARE ENGINEERING MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Jenkins",
+        "Java",
+        "REST API",
+        "C",
+        "Scala",
+        "Communication",
+        "R",
+        "C++",
+        "AWS",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "B.E",
+    "experience_years": 0
+}

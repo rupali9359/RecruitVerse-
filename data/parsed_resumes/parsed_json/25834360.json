@@ -1,0 +1,13 @@
+{
+    "name": "FIELD NURSE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "R",
+        "C",
+        "Statistics",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 25
+}

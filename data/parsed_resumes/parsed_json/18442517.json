@@ -1,0 +1,27 @@
+{
+    "name": "SOFTWARE ENGINEER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Bootstrap",
+        "Oracle",
+        "Salesforce",
+        "Jenkins",
+        "Angular",
+        "Java",
+        "Market Research",
+        "C",
+        "Git",
+        "MySQL",
+        "SQL",
+        "CRM",
+        "Communication",
+        "Excel",
+        "R",
+        "CSS",
+        "HTML",
+        "JavaScript"
+    ],
+    "education": "BCA",
+    "experience_years": 0
+}

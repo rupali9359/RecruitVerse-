@@ -1,0 +1,19 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Oracle",
+        "MS Office",
+        "C",
+        "SQL",
+        "SEM",
+        "Communication",
+        "R",
+        "SEO",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 6
+}

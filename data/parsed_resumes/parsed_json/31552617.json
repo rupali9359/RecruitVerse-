@@ -1,0 +1,16 @@
+{
+    "name": "TEACHER",
+    "email": null,
+    "phone": "1 866-990-6637",
+    "skills": [
+        "Leadership",
+        "MS Office",
+        "C",
+        "SEM",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

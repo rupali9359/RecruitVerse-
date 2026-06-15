@@ -1,0 +1,20 @@
+{
+    "name": "Professional Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "C",
+        "Git",
+        "GitHub",
+        "CRM",
+        "Tableau",
+        "Excel",
+        "R",
+        "Communication",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

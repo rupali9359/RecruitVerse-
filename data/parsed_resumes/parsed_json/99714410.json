@@ -1,0 +1,19 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "MS Office",
+        "C",
+        "Git",
+        "SEM",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

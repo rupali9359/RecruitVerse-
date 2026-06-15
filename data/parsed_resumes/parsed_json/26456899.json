@@ -1,0 +1,21 @@
+{
+    "name": "ENGINEERING LAB TECHNICIAN",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Java",
+        "C",
+        "Regression",
+        "Git",
+        "SQL",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "C++",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

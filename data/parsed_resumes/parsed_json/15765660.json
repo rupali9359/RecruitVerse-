@@ -1,0 +1,26 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "Digital Marketing",
+        "Google Analytics",
+        "MS Office",
+        "C",
+        "Git",
+        "SQL",
+        "SEM",
+        "CRM",
+        "Communication",
+        "Excel",
+        "R",
+        "CSS",
+        "Lead Generation",
+        "HTML",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

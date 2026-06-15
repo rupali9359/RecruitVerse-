@@ -1,0 +1,20 @@
+{
+    "name": "IT MANAGEMENT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Java",
+        "C",
+        "Git",
+        "SEM",
+        "R",
+        "CSS",
+        "SEO",
+        "HTML",
+        "JavaScript",
+        "S3"
+    ],
+    "education": null,
+    "experience_years": 4
+}

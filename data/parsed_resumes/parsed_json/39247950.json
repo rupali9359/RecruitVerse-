@@ -1,0 +1,23 @@
+{
+    "name": "SOFTWARE ENGINEER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Angular",
+        "Java",
+        "C",
+        "SQL",
+        "Hive",
+        "Communication",
+        "R",
+        "CSS",
+        "SQL Server",
+        "HTML",
+        "Azure",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 3
+}

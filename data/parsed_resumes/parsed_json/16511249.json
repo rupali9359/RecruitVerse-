@@ -1,0 +1,14 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 20
+}

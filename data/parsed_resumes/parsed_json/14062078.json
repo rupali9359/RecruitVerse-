@@ -1,0 +1,17 @@
+{
+    "name": "REGISTERED NURSE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Git",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics",
+        "AWS",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 8
+}

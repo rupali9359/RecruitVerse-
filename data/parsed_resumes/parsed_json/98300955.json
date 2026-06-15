@@ -1,0 +1,22 @@
+{
+    "name": "Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Java",
+        "C",
+        "SQL",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "CSS",
+        "SQL Server",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "B.E",
+    "experience_years": 8
+}

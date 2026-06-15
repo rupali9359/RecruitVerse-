@@ -1,0 +1,13 @@
+{
+    "name": "Professional Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "SEM",
+        "R",
+        "C",
+        "Excel"
+    ],
+    "education": "Bachelor",
+    "experience_years": 12
+}

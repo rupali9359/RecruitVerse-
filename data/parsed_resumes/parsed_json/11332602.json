@@ -1,0 +1,16 @@
+{
+    "name": "GENERAL MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "SEM",
+        "Excel",
+        "R",
+        "Statistics",
+        "AWS",
+        "Problem Solving"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

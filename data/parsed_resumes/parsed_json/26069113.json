@@ -1,0 +1,14 @@
+{
+    "name": "SOFTWARE ENGINEER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Scala",
+        "R",
+        "C++",
+        "S3"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

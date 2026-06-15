@@ -1,0 +1,15 @@
+{
+    "name": "EXECUTIVE CHEF",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "MS Office",
+        "C",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 12
+}

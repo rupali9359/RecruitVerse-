@@ -1,17 +1,13 @@
 {
-    "name": "SENIOR ACCOUNTANT",
+    "name": "ENGINEERING LAB TECHNICIAN",
     "email": null,
-    "phone": "2001 - 2002",
+    "phone": null,
     "skills": [
-        "C",
-        "SQL",
         "SEM",
-        "Communication",
-        "Excel",
         "R",
-        "SEO",
+        "C",
         "RDS"
     ],
-    "education": "Bachelor",
+    "education": null,
     "experience_years": 0
 }

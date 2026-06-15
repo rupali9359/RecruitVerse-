@@ -1,0 +1,13 @@
+{
+    "name": "CASHIER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Communication",
+        "R",
+        "C",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 15
+}

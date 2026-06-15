@@ -1,0 +1,28 @@
+{
+    "name": "DATA ANALYST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Matplotlib",
+        "C",
+        "SQL",
+        "SEM",
+        "Leadership",
+        "NumPy",
+        "Time Series",
+        "Python",
+        "Spark",
+        "Tableau",
+        "R",
+        "Statistics",
+        "Classification",
+        "Regression",
+        "MySQL",
+        "Excel",
+        "Pandas",
+        "Problem Solving"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

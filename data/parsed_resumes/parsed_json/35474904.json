@@ -1,0 +1,16 @@
+{
+    "name": "ADVOCATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "MS Office",
+        "C",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "C",
+        "Communication",
+        "R",
+        "Problem Solving"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

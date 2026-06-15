@@ -1,0 +1,17 @@
+{
+    "name": "SALES REPRESENTATIVE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "C",
+        "Git",
+        "Communication",
+        "Excel",
+        "R",
+        "Lambda",
+        "SEO"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

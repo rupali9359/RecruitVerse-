@@ -1,0 +1,17 @@
+{
+    "name": "STUDENT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "S3",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "Lambda",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 2
+}

@@ -1,0 +1,25 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Customer Support",
+        "Oracle",
+        "Linux",
+        "Java",
+        "C",
+        "Git",
+        "MySQL",
+        "SQL",
+        "SEM",
+        "Communication",
+        "R",
+        "C++",
+        "SQL Server",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

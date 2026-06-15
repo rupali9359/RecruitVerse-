@@ -1,0 +1,16 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "C",
+        "Excel",
+        "R",
+        "HTML",
+        "Customer Support",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

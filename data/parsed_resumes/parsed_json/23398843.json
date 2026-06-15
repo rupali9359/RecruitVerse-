@@ -1,0 +1,14 @@
+{
+    "name": "TEACHER",
+    "email": "Lamaestram4kidscare@yahoo.com",
+    "phone": null,
+    "skills": [
+        "MS Office",
+        "C",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": null,
+    "experience_years": 10
+}

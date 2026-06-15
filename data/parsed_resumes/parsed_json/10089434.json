@@ -1,0 +1,21 @@
+{
+    "name": "INFORMATION TECHNOLOGY TECHNICIAN I",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Java",
+        "C",
+        "SQL",
+        "Scala",
+        "R",
+        "C++",
+        "CSS",
+        "RDS",
+        "HTML",
+        "Azure",
+        "S3"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

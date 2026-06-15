@@ -1,0 +1,17 @@
+{
+    "name": "CUSTOMER ADVOCATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Process Improvement",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Lambda",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 4
+}

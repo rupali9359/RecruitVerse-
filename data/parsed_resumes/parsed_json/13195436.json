@@ -1,0 +1,15 @@
+{
+    "name": "Summary",
+    "email": null,
+    "phone": "155 2013-2014",
+    "skills": [
+        "Leadership",
+        "Teamwork",
+        "C",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 8
+}

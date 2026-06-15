@@ -1,0 +1,17 @@
+{
+    "name": "Executive Profile",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Git",
+        "SQL",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication"
+    ],
+    "education": "Bachelor",
+    "experience_years": 20
+}

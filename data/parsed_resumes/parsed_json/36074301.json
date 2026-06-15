@@ -1,0 +1,17 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": "2004 2005 2006",
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}

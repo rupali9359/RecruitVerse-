@@ -1,0 +1,17 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "MS Office",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

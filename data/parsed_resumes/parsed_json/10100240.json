@@ -1,0 +1,16 @@
+{
+    "name": "CARPENTER APPRENTICE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Master",
+    "experience_years": 4
+}

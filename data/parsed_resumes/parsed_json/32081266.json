@@ -1,0 +1,22 @@
+{
+    "name": "Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Oracle",
+        "Process Improvement",
+        "C",
+        "SQL",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "SQL Server",
+        "Problem Solving",
+        "PCA",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "STYLIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics",
+        "CSS",
+        "HTML"
+    ],
+    "education": null,
+    "experience_years": 0
+}

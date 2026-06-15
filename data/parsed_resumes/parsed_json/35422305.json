@@ -1,0 +1,16 @@
+{
+    "name": "Education",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Operations Management",
+        "SEM",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 16
+}

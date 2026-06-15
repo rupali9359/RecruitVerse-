@@ -1,0 +1,14 @@
+{
+    "name": "Professional Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 2
+}

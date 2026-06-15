@@ -1,0 +1,20 @@
+{
+    "name": "TEST ENGINEERING",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Process Improvement",
+        "C",
+        "Git",
+        "SQL",
+        "SEM",
+        "Communication",
+        "R",
+        "Python",
+        "SQL Server",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 10
+}

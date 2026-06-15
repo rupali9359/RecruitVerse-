@@ -1,0 +1,24 @@
+{
+    "name": "INFORMATION TECHNOLOGY COORDINATOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Oracle",
+        "Linux",
+        "Java",
+        "MS Office",
+        "C",
+        "MySQL",
+        "SQL",
+        "R",
+        "CSS",
+        "SQL Server",
+        "RDS",
+        "HTML",
+        "JavaScript",
+        "S3"
+    ],
+    "education": "Bachelor",
+    "experience_years": 9
+}

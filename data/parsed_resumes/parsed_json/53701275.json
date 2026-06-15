@@ -1,0 +1,16 @@
+{
+    "name": "HUMAN RESOURCES SUPERVISOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

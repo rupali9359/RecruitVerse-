@@ -1,0 +1,16 @@
+{
+    "name": "SALES EXECUTIVE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "C",
+        "Git",
+        "CRM",
+        "SEM",
+        "Communication",
+        "R"
+    ],
+    "education": "Master",
+    "experience_years": 3
+}

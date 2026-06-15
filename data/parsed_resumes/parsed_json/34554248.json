@@ -1,0 +1,17 @@
+{
+    "name": "HR GENERALIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "MS Office",
+        "C",
+        "Operations Management",
+        "Git",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 30
+}

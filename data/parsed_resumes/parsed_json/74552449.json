@@ -1,0 +1,19 @@
+{
+    "name": "BANKING",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "MS Office",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics",
+        "AWS",
+        "HTML"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

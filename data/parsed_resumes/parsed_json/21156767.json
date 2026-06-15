@@ -1,0 +1,22 @@
+{
+    "name": "Pavithra Shetty",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Machine Learning",
+        "Java",
+        "C",
+        "Regression",
+        "MySQL",
+        "SQL",
+        "R",
+        "Classification",
+        "Python",
+        "SQL Server",
+        "Azure",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 6
+}

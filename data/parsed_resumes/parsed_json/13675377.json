@@ -1,0 +1,13 @@
+{
+    "name": "MEDICAL SCRIBE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "AWS",
+        "R",
+        "C",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}

@@ -1,0 +1,16 @@
+{
+    "name": "FREELANCE DESIGNER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "MS Office",
+        "C",
+        "Git",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

@@ -1,0 +1,17 @@
+{
+    "name": "OWNER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Operations Management",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "Social Media Marketing"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

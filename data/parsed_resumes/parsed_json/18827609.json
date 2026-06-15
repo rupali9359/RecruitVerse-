@@ -1,0 +1,16 @@
+{
+    "name": "HR ASSOCIATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Teamwork",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Social Media Marketing"
+    ],
+    "education": "Bachelor",
+    "experience_years": 3
+}

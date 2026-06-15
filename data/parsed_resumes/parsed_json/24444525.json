@@ -1,0 +1,15 @@
+{
+    "name": "FITNESS SPECIALIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Excel",
+        "R",
+        "Statistics",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

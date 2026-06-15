@@ -1,0 +1,29 @@
+{
+    "name": "SOFTWARE ENGINEERING CO-OP",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "SQL",
+        "PostgreSQL",
+        "Leadership",
+        "Google Analytics",
+        "Linux",
+        "Java",
+        "C++",
+        "Python",
+        "JavaScript",
+        "RDS",
+        "Docker",
+        "Communication",
+        "R",
+        "CSS",
+        "SQLite",
+        "Git",
+        "MySQL",
+        "Excel",
+        "HTML"
+    ],
+    "education": "Bachelor",
+    "experience_years": 7
+}

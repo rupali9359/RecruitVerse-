@@ -1,0 +1,17 @@
+{
+    "name": "HR ASSISTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Teamwork",
+        "MS Office",
+        "C",
+        "Git",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

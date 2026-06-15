@@ -1,0 +1,19 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Teamwork",
+        "Linux",
+        "MS Office",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}

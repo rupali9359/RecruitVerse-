@@ -1,0 +1,14 @@
+{
+    "name": "CASE MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

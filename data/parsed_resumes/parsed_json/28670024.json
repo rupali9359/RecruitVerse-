@@ -1,0 +1,16 @@
+{
+    "name": "HEALTHCARE PROVIDER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Teamwork",
+        "MS Office",
+        "C",
+        "Git",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

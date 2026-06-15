@@ -1,0 +1,16 @@
+{
+    "name": "Professional Profile",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "MS Office",
+        "C",
+        "SEM",
+        "R",
+        "SEO",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

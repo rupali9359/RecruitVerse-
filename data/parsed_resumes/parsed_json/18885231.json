@@ -1,0 +1,14 @@
+{
+    "name": "SALES ASSOCIATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "C",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

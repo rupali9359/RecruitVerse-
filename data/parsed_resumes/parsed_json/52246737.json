@@ -1,0 +1,17 @@
+{
+    "name": "INFORMATION TECHNOLOGY PROVISIONING TECHNICIAN",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Process Improvement",
+        "C",
+        "Scala",
+        "R",
+        "Statistics",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 5
+}

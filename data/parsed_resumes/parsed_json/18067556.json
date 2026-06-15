@@ -1,0 +1,25 @@
+{
+    "name": "MASTER DATA MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Linux",
+        "Process Improvement",
+        "C",
+        "SQL",
+        "CRM",
+        "Scala",
+        "Tableau",
+        "R",
+        "Excel",
+        "CSS",
+        "Python",
+        "AWS",
+        "HTML",
+        "Azure",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

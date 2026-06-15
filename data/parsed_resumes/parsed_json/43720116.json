@@ -1,0 +1,17 @@
+{
+    "name": "GRADUATE ENGINEER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Git",
+        "Excel",
+        "R",
+        "CSS",
+        "Python",
+        "HTML",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

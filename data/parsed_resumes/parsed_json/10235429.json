@@ -1,0 +1,15 @@
+{
+    "name": "FITNESS INSTRUCTOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Master",
+    "experience_years": 0
+}

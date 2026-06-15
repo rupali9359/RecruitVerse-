@@ -1,0 +1,15 @@
+{
+    "name": "REGIONAL HR BUSINESS PARTNER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

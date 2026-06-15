@@ -1,0 +1,22 @@
+{
+    "name": "IT CONSULTANT",
+    "email": null,
+    "phone": "2000 - 2012",
+    "skills": [
+        "RDS",
+        "Leadership",
+        "Linux",
+        "MS Office",
+        "C",
+        "MySQL",
+        "SQL",
+        "Communication",
+        "R",
+        "SQL Server",
+        "EC2",
+        "AWS",
+        "S3"
+    ],
+    "education": null,
+    "experience_years": 0
+}

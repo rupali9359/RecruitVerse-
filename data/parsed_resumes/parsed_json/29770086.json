@@ -1,0 +1,20 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "Digital Marketing",
+        "Google Analytics",
+        "C",
+        "Operations Management",
+        "Git",
+        "SEM",
+        "Communication",
+        "R",
+        "Lead Generation",
+        "SEO"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

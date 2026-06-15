@@ -1,0 +1,13 @@
+{
+    "name": "DENTAL HYGIENIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "R",
+        "C",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

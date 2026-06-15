@@ -1,0 +1,13 @@
+{
+    "name": "TEACHER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "R",
+        "C",
+        "Excel"
+    ],
+    "education": "B.E",
+    "experience_years": 0
+}

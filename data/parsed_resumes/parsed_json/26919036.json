@@ -1,0 +1,17 @@
+{
+    "name": "CONSULTANT ACCOUNT",
+    "email": "Novella.Walton@VerizonWireless.com",
+    "phone": "404-556-7261",
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 14
+}

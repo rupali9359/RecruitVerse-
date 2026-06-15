@@ -1,0 +1,31 @@
+{
+    "name": "SOFTWARE DEVELOPER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "React",
+        "SQL",
+        "Leadership",
+        "TensorFlow",
+        "Flask",
+        "Java",
+        "Python",
+        "Keras",
+        "JavaScript",
+        "RDS",
+        "Node.js",
+        "Scikit-learn",
+        "Tableau",
+        "Communication",
+        "R",
+        "CSS",
+        "Scala",
+        "Excel",
+        "MongoDB",
+        "Pandas",
+        "HTML"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

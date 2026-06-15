@@ -1,0 +1,19 @@
+{
+    "name": "IT CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "MS Office",
+        "C",
+        "MySQL",
+        "SQL",
+        "Scala",
+        "Excel",
+        "R",
+        "Statistics",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 10
+}

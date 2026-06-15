@@ -1,0 +1,14 @@
+{
+    "name": "HR MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Communication",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

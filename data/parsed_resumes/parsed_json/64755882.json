@@ -1,0 +1,16 @@
+{
+    "name": "ENGINEERING OFFICER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "C",
+        "Git",
+        "Communication",
+        "R",
+        "C++",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

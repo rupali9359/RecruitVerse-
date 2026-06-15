@@ -1,0 +1,15 @@
+{
+    "name": "ASSOCIATE",
+    "email": null,
+    "phone": "27-12-1978",
+    "skills": [
+        "C",
+        "SEM",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

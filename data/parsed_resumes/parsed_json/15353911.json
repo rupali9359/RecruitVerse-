@@ -1,0 +1,12 @@
+{
+    "name": "LEAD ARTIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "R",
+        "C"
+    ],
+    "education": "Bachelor",
+    "experience_years": 7
+}

@@ -1,0 +1,16 @@
+{
+    "name": "SALES ASSOCIATE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Operations Management",
+        "Git",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

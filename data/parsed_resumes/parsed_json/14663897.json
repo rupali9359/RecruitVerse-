@@ -1,0 +1,16 @@
+{
+    "name": "CHEF",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}

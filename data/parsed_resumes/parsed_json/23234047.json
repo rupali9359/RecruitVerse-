@@ -1,0 +1,14 @@
+{
+    "name": "ENGINEERING SUPERVISOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Java",
+        "C",
+        "SEM",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

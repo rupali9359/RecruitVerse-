@@ -1,0 +1,16 @@
+{
+    "name": "ELECTRICAL ENGINEER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Git",
+        "SEM",
+        "Excel",
+        "R",
+        "C++",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 5
+}

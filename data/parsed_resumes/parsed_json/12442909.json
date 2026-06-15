@@ -1,0 +1,16 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Teamwork",
+        "C",
+        "Communication",
+        "R",
+        "Statistics",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

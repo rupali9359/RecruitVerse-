@@ -1,0 +1,14 @@
+{
+    "name": "ADVISOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "CRM",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

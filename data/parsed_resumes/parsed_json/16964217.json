@@ -1,0 +1,15 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": "342285200505",
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Customer Support",
+        "RDS"
+    ],
+    "education": "Master",
+    "experience_years": 0
+}

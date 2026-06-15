@@ -1,0 +1,15 @@
+{
+    "name": "GLOBAL HR MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Master",
+    "experience_years": 10
+}

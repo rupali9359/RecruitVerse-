@@ -1,0 +1,13 @@
+{
+    "name": "STUDENT TEACHER",
+    "email": null,
+    "phone": "2001 - 2004",
+    "skills": [
+        "R",
+        "C",
+        "Excel",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 11
+}

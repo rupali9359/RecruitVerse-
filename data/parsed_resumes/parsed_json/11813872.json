@@ -1,0 +1,20 @@
+{
+    "name": "VP, PRINCIPAL",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Oracle",
+        "Java",
+        "Matplotlib",
+        "C",
+        "SQL",
+        "R",
+        "Time Series",
+        "Python",
+        "Pandas",
+        "AWS"
+    ],
+    "education": "Master",
+    "experience_years": 20
+}

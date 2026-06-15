@@ -1,0 +1,23 @@
+{
+    "name": "CONSULTANT",
+    "email": "Greg@TheVarium.com",
+    "phone": "801-910-6500",
+    "skills": [
+        "Salesforce",
+        "Oracle",
+        "Customer Support",
+        "Java",
+        "C",
+        "Git",
+        "SQL",
+        "CRM",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "Python",
+        "HTML",
+        "JavaScript"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

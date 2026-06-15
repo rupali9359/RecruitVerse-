@@ -1,0 +1,14 @@
+{
+    "name": "INFORMATION TECHNOLOGY SPECIALIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Git",
+        "C",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 16
+}

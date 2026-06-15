@@ -1,0 +1,20 @@
+{
+    "name": "BUSINESS CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Salesforce",
+        "Process Improvement",
+        "C",
+        "Operations Management",
+        "Git",
+        "CRM",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics"
+    ],
+    "education": null,
+    "experience_years": 10
+}

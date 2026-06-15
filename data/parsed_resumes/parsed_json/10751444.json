@@ -1,0 +1,21 @@
+{
+    "name": "PRODUCT DESIGNER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Linux",
+        "C",
+        "Regression",
+        "Git",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics",
+        "Python",
+        "Problem Solving"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

@@ -1,0 +1,25 @@
+{
+    "name": "IT CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Bootstrap",
+        "Oracle",
+        "Angular",
+        "Java",
+        "REST API",
+        "C",
+        "Git",
+        "GitHub",
+        "SQL",
+        "Excel",
+        "R",
+        "CSS",
+        "SQL Server",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

@@ -1,0 +1,17 @@
+{
+    "name": "ACCOUNTANT II",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Process Improvement",
+        "C",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 10
+}

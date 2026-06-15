@@ -1,0 +1,17 @@
+{
+    "name": "HR ADMINISTRATOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "MS Office",
+        "C",
+        "Git",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 6
+}

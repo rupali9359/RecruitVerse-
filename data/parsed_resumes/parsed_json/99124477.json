@@ -1,0 +1,19 @@
+{
+    "name": "ASSOCIATE CONSULTANT",
+    "email": null,
+    "phone": "20-08-1983",
+    "skills": [
+        "Oracle",
+        "Java",
+        "C",
+        "SQL",
+        "Hive",
+        "Excel",
+        "R",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 7
+}

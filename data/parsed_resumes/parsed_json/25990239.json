@@ -1,0 +1,15 @@
+{
+    "name": "INFORMATION TECHNOLOGY INSTRUCTOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "HTML",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

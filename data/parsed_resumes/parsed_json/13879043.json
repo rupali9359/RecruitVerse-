@@ -1,0 +1,14 @@
+{
+    "name": "HR CONSULTING",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "SEM",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 7
+}

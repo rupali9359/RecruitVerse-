@@ -1,0 +1,18 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Machine Learning",
+        "C",
+        "MySQL",
+        "SQL",
+        "Tableau",
+        "Excel",
+        "R",
+        "Lead Generation",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

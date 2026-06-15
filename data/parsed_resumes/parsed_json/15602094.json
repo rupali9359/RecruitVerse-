@@ -1,0 +1,26 @@
+{
+    "name": "IT CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "Java",
+        "Problem Solving",
+        "C",
+        "MySQL",
+        "SQL",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R",
+        "C++",
+        "CSS",
+        "SQL Server",
+        "SEO",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

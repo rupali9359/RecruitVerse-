@@ -1,0 +1,14 @@
+{
+    "name": "Objective",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 14
+}

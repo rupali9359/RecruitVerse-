@@ -1,0 +1,16 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "SEM",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Master",
+    "experience_years": 0
+}

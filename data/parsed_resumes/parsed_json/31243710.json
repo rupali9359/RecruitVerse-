@@ -1,0 +1,16 @@
+{
+    "name": "IT MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Linux",
+        "C",
+        "MySQL",
+        "SQL",
+        "CRM",
+        "Excel",
+        "R"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

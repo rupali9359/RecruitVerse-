@@ -1,0 +1,16 @@
+{
+    "name": "FLIGHT ATTENDANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Git",
+        "SEM",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 22
+}

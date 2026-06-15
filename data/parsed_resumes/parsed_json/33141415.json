@@ -1,0 +1,19 @@
+{
+    "name": "CONSTRUCTION WORKER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Java",
+        "Problem Solving",
+        "C",
+        "MySQL",
+        "SQL",
+        "Excel",
+        "R",
+        "CSS",
+        "HTML",
+        "JavaScript"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

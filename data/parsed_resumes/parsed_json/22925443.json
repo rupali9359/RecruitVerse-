@@ -1,0 +1,15 @@
+{
+    "name": "ACCOUNTANT HELPER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Statistics",
+        "Problem Solving"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

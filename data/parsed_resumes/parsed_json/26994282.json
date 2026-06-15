@@ -1,0 +1,19 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Git",
+        "SEM",
+        "Hive",
+        "Communication",
+        "Excel",
+        "R",
+        "SEO",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

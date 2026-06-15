@@ -1,0 +1,15 @@
+{
+    "name": "REGIONAL HR MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Communication",
+        "Scala",
+        "R",
+        "Excel"
+    ],
+    "education": "MBA",
+    "experience_years": 5
+}

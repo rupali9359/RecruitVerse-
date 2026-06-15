@@ -1,0 +1,16 @@
+{
+    "name": "SALES",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "C",
+        "Operations Management",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 17
+}

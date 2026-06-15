@@ -1,0 +1,20 @@
+{
+    "name": "INFORMATION TECHNOLOGY SPECIALIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Linux",
+        "Shell Scripting",
+        "Java",
+        "Process Improvement",
+        "C",
+        "SQL",
+        "R",
+        "Statistics",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

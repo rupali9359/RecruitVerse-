@@ -1,0 +1,17 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Regression",
+        "SQL",
+        "SEM",
+        "CRM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

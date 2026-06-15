@@ -1,0 +1,25 @@
+{
+    "name": "ENGINEERING AND QUALITY TECHNICIAN",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Machine Learning",
+        "C",
+        "Regression",
+        "SQL",
+        "SEM",
+        "Tableau",
+        "Clustering",
+        "R",
+        "Statistics",
+        "Excel",
+        "Python",
+        "Pandas",
+        "HTML",
+        "PCA",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 3
+}

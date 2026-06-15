@@ -1,0 +1,18 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Linux",
+        "C",
+        "Operations Management",
+        "SQL",
+        "Communication",
+        "Excel",
+        "R",
+        "AWS"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

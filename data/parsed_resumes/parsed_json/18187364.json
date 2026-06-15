@@ -1,0 +1,16 @@
+{
+    "name": "Profile",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Linux",
+        "C",
+        "SQL",
+        "R",
+        "Statistics",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

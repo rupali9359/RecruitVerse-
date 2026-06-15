@@ -1,0 +1,16 @@
+{
+    "name": "CUSTOMER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Hive",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 10
+}

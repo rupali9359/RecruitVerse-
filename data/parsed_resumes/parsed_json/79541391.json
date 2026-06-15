@@ -1,0 +1,17 @@
+{
+    "name": "Qualifications",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "SQL",
+        "Excel",
+        "R",
+        "Statistics",
+        "Classification",
+        "CSS",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

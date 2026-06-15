@@ -1,0 +1,25 @@
+{
+    "name": "Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Java",
+        "Problem Solving",
+        "MS Office",
+        "C",
+        "SQL",
+        "Excel",
+        "C++",
+        "R",
+        "Statistics",
+        "CSS",
+        "Python",
+        "RDS",
+        "HTML",
+        "JavaScript",
+        "S3"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

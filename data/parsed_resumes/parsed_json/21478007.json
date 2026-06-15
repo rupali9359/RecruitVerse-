@@ -1,0 +1,17 @@
+{
+    "name": "MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "Social Media Marketing",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

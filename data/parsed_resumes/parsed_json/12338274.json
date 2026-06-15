@@ -1,0 +1,17 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "MS Office",
+        "C",
+        "Git",
+        "SEM",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

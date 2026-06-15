@@ -1,0 +1,13 @@
+{
+    "name": "BANKING",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "R",
+        "C",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 3
+}

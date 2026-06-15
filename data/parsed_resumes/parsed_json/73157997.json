@@ -1,0 +1,15 @@
+{
+    "name": "PURCHASING AGENT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "MS Office",
+        "C",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

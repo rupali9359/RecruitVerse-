@@ -1,0 +1,25 @@
+{
+    "name": "Highlights",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "SQLite",
+        "Machine Learning",
+        "Java",
+        "C",
+        "Regression",
+        "SQL",
+        "Computer Vision",
+        "SEM",
+        "Clustering",
+        "R",
+        "Statistics",
+        "Excel",
+        "Python",
+        "SQL Server",
+        "PCA",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

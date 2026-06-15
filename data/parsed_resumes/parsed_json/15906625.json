@@ -1,0 +1,14 @@
+{
+    "name": "ACCOUNTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "SEM",
+        "Excel",
+        "R",
+        "Lambda"
+    ],
+    "education": "Bachelor",
+    "experience_years": 15
+}

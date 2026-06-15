@@ -1,0 +1,16 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Linux",
+        "Process Improvement",
+        "C",
+        "SQL",
+        "Hive",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 6
+}

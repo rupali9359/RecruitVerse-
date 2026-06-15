@@ -1,0 +1,19 @@
+{
+    "name": "IT DIRECTOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Salesforce",
+        "Linux",
+        "C",
+        "SQL",
+        "SEM",
+        "CRM",
+        "Communication",
+        "R",
+        "Azure",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

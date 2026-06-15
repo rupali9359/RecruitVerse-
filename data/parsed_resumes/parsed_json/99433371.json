@@ -1,0 +1,13 @@
+{
+    "name": "CONSTRUCTION",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Git",
+        "R",
+        "C",
+        "Excel"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

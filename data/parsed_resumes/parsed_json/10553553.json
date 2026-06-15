@@ -1,0 +1,15 @@
+{
+    "name": "INFORMATION TECHNOLOGY MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Operations Management",
+        "SQL",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

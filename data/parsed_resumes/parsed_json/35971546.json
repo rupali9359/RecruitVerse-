@@ -1,0 +1,16 @@
+{
+    "name": "CONSTRUCTION INSPECTOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Git",
+        "Communication",
+        "Excel",
+        "R",
+        "Problem Solving",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 20
+}

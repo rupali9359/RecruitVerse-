@@ -1,0 +1,13 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": "720 308 5282",
+    "skills": [
+        "R",
+        "C",
+        "Operations Management",
+        "Excel"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

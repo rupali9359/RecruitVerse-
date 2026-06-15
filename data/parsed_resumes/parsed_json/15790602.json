@@ -1,0 +1,15 @@
+{
+    "name": "DIRECTOR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Git",
+        "C",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

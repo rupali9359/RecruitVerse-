@@ -1,0 +1,14 @@
+{
+    "name": "Professional Profile",
+    "email": null,
+    "phone": "92354\n2009",
+    "skills": [
+        "C",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 15
+}

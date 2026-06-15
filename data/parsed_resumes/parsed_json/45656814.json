@@ -1,0 +1,13 @@
+{
+    "name": "FLOATER/TEACHER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Communication",
+        "R",
+        "C",
+        "SEM"
+    ],
+    "education": "Bachelor",
+    "experience_years": 5
+}

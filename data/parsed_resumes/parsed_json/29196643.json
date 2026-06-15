@@ -1,0 +1,25 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Google Analytics",
+        "Linux",
+        "Java",
+        "C",
+        "Git",
+        "MySQL",
+        "SQL",
+        "SEM",
+        "Scala",
+        "Excel",
+        "R",
+        "Communication",
+        "CSS",
+        "HTML",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 4
+}

@@ -1,0 +1,24 @@
+{
+    "name": "INFORMATION TECHNOLOGY CONSULTANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Linux",
+        "Java",
+        "MS Office",
+        "C",
+        "MySQL",
+        "SQL",
+        "Communication",
+        "R",
+        "C++",
+        "CSS",
+        "SEO",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 18
+}

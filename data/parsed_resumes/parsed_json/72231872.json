@@ -1,0 +1,19 @@
+{
+    "name": "HR GENERALIST",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "SEM",
+        "Tableau",
+        "Excel",
+        "R",
+        "Communication",
+        "AWS",
+        "Customer Support",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 18
+}

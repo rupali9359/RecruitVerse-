@@ -1,0 +1,15 @@
+{
+    "name": "OWNER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Process Improvement",
+        "Git",
+        "C",
+        "SEM",
+        "R"
+    ],
+    "education": "PhD",
+    "experience_years": 25
+}

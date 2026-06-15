@@ -1,0 +1,14 @@
+{
+    "name": "TEACHER",
+    "email": null,
+    "phone": "318-243-9294",
+    "skills": [
+        "C",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

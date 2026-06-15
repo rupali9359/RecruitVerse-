@@ -1,0 +1,17 @@
+{
+    "name": "GUNNERY SERGEANT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Linux",
+        "Process Improvement",
+        "C",
+        "Scala",
+        "Communication",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 0
+}

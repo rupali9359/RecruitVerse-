@@ -1,0 +1,15 @@
+{
+    "name": "CONSULTANT",
+    "email": null,
+    "phone": "27001\n2005",
+    "skills": [
+        "C",
+        "Communication",
+        "Clustering",
+        "R",
+        "Classification",
+        "RDS"
+    ],
+    "education": "B.E",
+    "experience_years": 10
+}

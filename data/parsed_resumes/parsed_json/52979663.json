@@ -1,0 +1,13 @@
+{
+    "name": "SENIOR HR",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "R",
+        "C",
+        "Problem Solving"
+    ],
+    "education": "Bachelor",
+    "experience_years": 3
+}

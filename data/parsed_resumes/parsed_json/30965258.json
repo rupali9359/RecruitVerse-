@@ -1,0 +1,15 @@
+{
+    "name": "Zachory Edmiston",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Git",
+        "Communication",
+        "Excel",
+        "R",
+        "RDS"
+    ],
+    "education": "Bachelor",
+    "experience_years": 3
+}

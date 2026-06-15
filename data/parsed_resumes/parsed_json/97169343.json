@@ -1,0 +1,15 @@
+{
+    "name": "STAFFING MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "R",
+        "Statistics",
+        "AWS",
+        "RDS"
+    ],
+    "education": "MCA",
+    "experience_years": 0
+}

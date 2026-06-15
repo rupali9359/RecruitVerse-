@@ -1,0 +1,25 @@
+{
+    "name": "PROJECT MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Oracle",
+        "Java",
+        "C",
+        "Regression",
+        "SQL",
+        "SEM",
+        "CRM",
+        "Scala",
+        "PostgreSQL",
+        "R",
+        "C++",
+        "Communication",
+        "SQL Server",
+        "HTML",
+        "JavaScript",
+        "RDS"
+    ],
+    "education": "MBA",
+    "experience_years": 20
+}

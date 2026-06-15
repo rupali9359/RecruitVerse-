@@ -1,0 +1,14 @@
+{
+    "name": "Executive Summary",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "C",
+        "CRM",
+        "Excel",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 25
+}

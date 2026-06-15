@@ -1,0 +1,16 @@
+{
+    "name": "PRESIDENT",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "Market Research",
+        "C",
+        "SEM",
+        "Communication",
+        "Excel",
+        "R"
+    ],
+    "education": "MBA",
+    "experience_years": 0
+}

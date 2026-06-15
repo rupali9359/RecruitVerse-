@@ -1,0 +1,23 @@
+{
+    "name": "ENGINEERING MANAGER",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "Leadership",
+        "TensorFlow",
+        "Machine Learning",
+        "Linux",
+        "Java",
+        "C",
+        "Regression",
+        "Git",
+        "Computer Vision",
+        "SEM",
+        "R",
+        "C++",
+        "HTML",
+        "RDS"
+    ],
+    "education": "B.E",
+    "experience_years": 0
+}

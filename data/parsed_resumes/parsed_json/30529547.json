@@ -1,0 +1,14 @@
+{
+    "name": "SALES REPRESENTATIVE",
+    "email": null,
+    "phone": null,
+    "skills": [
+        "C",
+        "Communication",
+        "R",
+        "AWS",
+        "RDS"
+    ],
+    "education": null,
+    "experience_years": 0
+}
