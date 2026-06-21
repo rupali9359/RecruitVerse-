@@ -1,83 +1,92 @@
 import os
-import csv
-from datetime import datetime
-from collections import Counter
+import json
 
-DATA_PATHS = [
-    ("real_pdf_dataset", "data/raw_resumes/real/dataset1_pdf_categories"),
-    ("synthetic_dataset", "data/raw_resumes/synthetic/synthetic_10000"),
-    ("structured_dataset", "data/structured_resumes/dataset1_resume_csv"),
-    ("job_descriptions", "data/job_descriptions")
-]
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.dirname(
+            os.path.abspath(__file__)
+        )
+    )
+)
 
-OUTPUT_FILE = "data/manifest/dataset_manifest.csv"
-SUMMARY_FILE = "data/manifest/dataset_summary.txt"
+real_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "raw_resumes",
+    "real"
+)
 
-def get_file_type(filename):
-    return os.path.splitext(filename)[1].replace(".", "").lower()
+synthetic_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "raw_resumes",
+    "synthetic"
+)
 
-def audit_datasets():
-    rows = []
-    file_id = 1
-    type_counter = Counter()
-    source_counter = Counter()
+parsed_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "parsed_resumes",
+    "raw_text"
+)
 
-    for source, base_path in DATA_PATHS:
-        if not os.path.exists(base_path):
-            print(f"Path not found: {base_path}")
-            continue
+job_desc_path = os.path.join(
+    BASE_DIR,
+    "data",
+    "job_descriptions"
+)
 
-        for root, dirs, files in os.walk(base_path):
-            for file in files:
-                if file == ".gitkeep":
-                    continue
+skills_file = os.path.join(
+    BASE_DIR,
+    "data",
+    "skills_dictionary",
+    "skills_dictionary.json"
+)
 
-                file_path = os.path.join(root, file)
-                file_type = get_file_type(file)
-                file_size_kb = round(os.path.getsize(file_path) / 1024, 2)
+print(BASE_DIR)
+print("\n===== RECRUITVERSE DATA AUDIT =====\n")
 
-                rows.append({
-                    "file_id": file_id,
-                    "file_name": file,
-                    "file_type": file_type,
-                    "source": source,
-                    "file_path": file_path.replace("\\", "/"),
-                    "size_kb": file_size_kb,
-                    "created_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                })
+real_count = 0
+for root, dirs, files in os.walk(real_path):
+    for file in files:
+        if file.lower().endswith(".pdf"):
+            real_count += 1
 
-                type_counter[file_type] += 1
-                source_counter[source] += 1
-                file_id += 1
+synthetic_count = 0
+for root, dirs, files in os.walk(synthetic_path):
+    for file in files:
+        if file.lower().endswith(".pdf"):
+            synthetic_count += 1
 
-    os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+txt_count = 0
+for root, dirs, files in os.walk(parsed_path):
+    for file in files:
+        if file.lower().endswith(".txt"):
+            txt_count += 1
 
-    with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as csvfile:
-        fieldnames = [
-            "file_id", "file_name", "file_type", "source",
-            "file_path", "size_kb", "created_at"
-        ]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(rows)
+jd_count = 0
+for file in os.listdir(job_desc_path):
+    if file.endswith(".txt"):
+        jd_count += 1
 
-    with open(SUMMARY_FILE, "w", encoding="utf-8") as file:
-        file.write("RecruitVerse Dataset Audit Summary\n")
-        file.write("===================================\n\n")
-        file.write(f"Total files found: {len(rows)}\n\n")
+print(f"Real Resume PDFs      : {real_count}")
+print(f"Synthetic PDFs        : {synthetic_count}")
+print(f"Parsed TXT Files      : {txt_count}")
+print(f"Job Descriptions      : {jd_count}")
 
-        file.write("Files by type:\n")
-        for file_type, count in type_counter.items():
-            file.write(f"- {file_type}: {count}\n")
+if os.path.exists(skills_file):
 
-        file.write("\nFiles by source:\n")
-        for source, count in source_counter.items():
-            file.write(f"- {source}: {count}\n")
+    with open(skills_file, "r", encoding="utf-8") as f:
+        skills_data = json.load(f)
 
-    print("Dataset audit completed.")
-    print(f"Total files found: {len(rows)}")
-    print(f"Manifest saved at: {OUTPUT_FILE}")
-    print(f"Summary saved at: {SUMMARY_FILE}")
+    total_skills = sum(
+        len(skill_list)
+        for skill_list in skills_data.values()
+    )
 
-if __name__ == "__main__":
-    audit_datasets()
+    print(f"Total Skills          : {total_skills}")
+
+else:
+    print("Skills file not found")
+
+print("\n==============================")
